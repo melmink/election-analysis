@@ -33,7 +33,7 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-![Election Results](https://github.com/melmink/election-analysis/blob/main/resources/election_results.png)
+![Election Results](https://github.com/melmink/election-analysis/blob/main/Resources/election_results.PNG)
 
 ## Challenge Overview
 ##### Overview of Election Audit
