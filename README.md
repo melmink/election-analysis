@@ -16,10 +16,16 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+- The county turnout results were:
+  - Jefferson County had 10.5% of the total votes with 38,855 votes.
+  - Denver County had 82.8% of the total votes with 306,055 votes.
+  - Arapahoe had 6.7% of the total votes with 24,801 votes.
+- The county with the largest number of votes was:
+  - Denver County with 306,055 votes.
 - The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
 - The candidate results were:
   - Charles Casper Stockham received 23.1% of the vote and 85,213 number of votes.
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
@@ -27,8 +33,16 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
+![Election Results](https://github.com/melmink/election-analysis/blob/main/resources/election_results.png)
+
 ## Challenge Overview
+##### Overview of Election Audit
+I assited Tom, an Colorado Elections Board employee, in an election audit of the tabulated results for U.S. Congressional precint in Colorado. It was requested that I report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. 
+
+Python was chosen to be used so that the process could be automated and be modified to use in other elections by the Colorado Board of Elections. 
 
 ## Challenge Summary
+##### Election-Audit Summary
+The code for this audit was written with refactoring options in mind for the future. It can be modified to be used in any election for the Colorado Board of Elections. For example, the code could be modified to identify the winner by county. This would allow the board to audit for inconsistities. Additionally, the code could be modified to allow the board to analyze the data for presidential elections. With additional data in the data set, they could track party affiliations, county alignment, and voting trends.
 
   
