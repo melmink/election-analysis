@@ -37,7 +37,7 @@ The analysis of the election show that:
 
 ## Challenge Overview
 ##### Overview of Election Audit
-I assited Tom, an Colorado Elections Board employee, in an election audit of the tabulated results for U.S. Congressional precint in Colorado. It was requested that I report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. 
+I assisted Tom, an Colorado Elections Board employee, in an election audit of the tabulated results for U.S. Congressional precint in Colorado. It was requested that I report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. 
 
 Python was chosen to be used so that the process could be automated and be modified to use in other elections by the Colorado Board of Elections. 
 
